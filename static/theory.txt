@@ -1,0 +1,52 @@
+static and assest are same folder
+
+bootstrap:
+use 5.3 version
+copy link and script
+
+download from bootstrap-->bootsstrap zip file -->>in dekstop create anthor folder and pest it
+then  -->> right click-->.extract here
+
+then copy from js bootstrap.min-->>>into the static-->js folder
+then copy from css bootstrap.min-->>>into the static-->css folder
+  create popper.js file in js folder
+
+  in bootstrap there are 12 columns and multiple rows
+
+  breakpoints-->> these are used to customize width and make window responsive according to view port
+
+ Breakpoint	Class infix	Dimensions
+Extra  small	None	<576px
+Small        	sm	≥576px
+Medium	      md	≥768px
+Large	        lg	≥992px
+Extr large	  xl	≥1200px
+Extra extra 	xxl	≥1400px   
+large
+
+
+with sm we are giving small means lower limit
+with secound limit i.e. md we are giving md means upper limit
+
+css                             class in bootstrap
+
+margin-top                        mt(1 to 5)
+margin-bottom                     mb(1 to 5)
+margin-left                       ms(1 to 5)
+margin-right                      me(1 to 5)
+mx                                horizontal  ms & me  mx-auto
+my                                vertical    mt & mb  my-auto
+
+
+in register.html pest code from index.html
+then go to form==>>form control
+
+=========================================
+navbar:
+
+Documentation and examples for Bootstrap’s powerful, responsive navigation header,
+ the navbar. Includes support for branding, navigation, and more, including support for our collapse plugin.
+
+
+ design navbar
+ 
